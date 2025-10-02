@@ -1,5 +1,10 @@
 # TPE Calcul Symbolique - INF4127
 
+## Devoir 1
+- Notebook: TPE_INF4127_Calcul_Symbolique_SymPy.ipynb
+- Documentation: doc/24F2456_Essuthi_Mbangue_Ange_Armel.md
+
+
 > Projet académique sur le calcul symbolique en optimisation mathématique
 
 ## Accès Rapide
@@ -18,3 +23,8 @@
 ---
 
 *Pour les détails du projet, consultez la [documentation complète](./doc/readme.md)*
+
+
+## Devoir 2  
+- Notebook: TP_SERIE1.ipynb
+- Documentation: readme_TP_SERIE1.md

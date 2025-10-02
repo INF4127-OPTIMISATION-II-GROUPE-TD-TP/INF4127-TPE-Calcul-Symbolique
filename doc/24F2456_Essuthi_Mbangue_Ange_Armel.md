@@ -51,7 +51,7 @@
 
 ## Bilan Final
 **Temps total investi :** 11 heures  
-**Pourcentage de contribution :** 100% (travail individuel)  
+**Pourcentage de contribution :** 100% (travail équipe)  
 **Statut :** Projet terminé et entièrement documenté
 
 ## Fonctions principales développées :
